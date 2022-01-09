@@ -15,10 +15,12 @@ package frc.robot;
 public final class Constants {
 //Our motor ids
 //Chassis
-public static final int leftLeader = 1; 
-public static final int leftFollower = 2;
-public static final int rightLeader = 3;
-public static final int rightFollower = 4;
+public static final int leftLeader = 3; 
+public static final int leftFollower1 = 2;
+public static final int leftFollower2 = 1;
+public static final int rightLeader = 12;
+public static final int rightFollower1 = 13;
+public static final int rightFollower2 = 14;
 
 
 
